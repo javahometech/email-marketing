@@ -2,3 +2,4 @@ AWS Cloud Architect
 DevOps
 Datascience & Machine Learning
 Java Full Stack
+python full stack
