@@ -4,4 +4,3 @@ Datascience & Machine Learning
 Java Full Stack
 python full stack
 Google Cloud Platform
-Data Science Course
