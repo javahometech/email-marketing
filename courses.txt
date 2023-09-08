@@ -3,3 +3,4 @@ DevOps
 Datascience & Machine Learning
 Java Full Stack
 python full stack
+Google Cloud Platform
