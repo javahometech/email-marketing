@@ -4,3 +4,4 @@ Datascience & Machine Learning
 Java Full Stack
 python full stack
 Google Cloud Platform
+Send welcome email for Subscribers
